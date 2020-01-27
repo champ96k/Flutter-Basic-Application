@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/course_page_using_gradient.iml" filepath="$PROJECT_DIR$/course_page_using_gradient.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/course_page_using_gradient_android.iml" filepath="$PROJECT_DIR$/android/course_page_using_gradient_android.iml" />
-    </modules>
-  </component>
-</project>
