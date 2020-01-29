@@ -1,4 +1,4 @@
-# Gradient Colour application
+# travel_app_homepage with dark theme
 
 A new Flutter project.
 
@@ -15,13 +15,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-UI Images
 
-![Tushar Nikam](https://i.ibb.co/0ht8qDw/pic2.jpg)
-
-
-![Tushar Nikam](https://i.ibb.co/f2X8bM0/pic3.jpg)
-
-
-
-![Tushar Nikam](https://i.ibb.co/SmGccPK/pic6.jpg)
+![TUshar Nikam](https://i.ibb.co/6X6cq0f/Whats-App-Image-2020-01-24-at-2-51-41-AM.jpg)
