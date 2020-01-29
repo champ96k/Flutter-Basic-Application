@@ -12,13 +12,21 @@ class _SecondPageState extends State<SecondPage> {
         child: Column(
           children: <Widget>[
             Text(
-                "Welcome to Secodn Screen",
+                "Welcome to Second Screen",
                 style: TextStyle(
                   fontSize: 25,
                   fontWeight: FontWeight.bold,
                   color: Colors.deepPurple[800]
                 ),
               ),
+
+               MaterialButton(
+                child: Text("Back to Home"),
+                onPressed: () {
+                  Navigator.push(context,
+                      MaterialPageRoute(builder: (context) => SecondPage()));
+                },
+              )
           ],
         ),
       ),
