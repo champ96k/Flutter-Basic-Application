@@ -1,4 +1,4 @@
-# screen_changer_using_routs
+# Gradient Colour application
 
 A new Flutter project.
 
@@ -14,3 +14,14 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+UI Images
+
+![Tushar Nikam](https://i.ibb.co/0ht8qDw/pic2.jpg)
+
+
+![Tushar Nikam](https://i.ibb.co/f2X8bM0/pic3.jpg)
+
+
+
+![Tushar Nikam](https://i.ibb.co/SmGccPK/pic6.jpg)
