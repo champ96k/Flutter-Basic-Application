@@ -1,4 +1,4 @@
-# travel_app_homepage
+# travel_app_homepage with dark theme
 
 A new Flutter project.
 
@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+![TUshar Nikam](https://i.ibb.co/6X6cq0f/Whats-App-Image-2020-01-24-at-2-51-41-AM.jpg)
