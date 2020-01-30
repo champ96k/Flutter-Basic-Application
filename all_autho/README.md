@@ -1,4 +1,4 @@
-# all_autho
+# all_authentication_in_one_App
 
 A new Flutter project.
 
