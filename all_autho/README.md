@@ -17,4 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-![Tushar Nikam](https://i.ibb.co/x2n6syP/all-autho.jpg)
+
+
+![Tushar Nikam](https://i.ibb.co/bFGDbbS/all-autho.jpg)
+
+
