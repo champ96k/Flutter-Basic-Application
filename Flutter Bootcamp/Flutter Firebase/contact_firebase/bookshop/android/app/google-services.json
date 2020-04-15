@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "27888666402",
+    "firebase_url": "https://food-order-54ec2.firebaseio.com",
+    "project_id": "food-order-54ec2",
+    "storage_bucket": "food-order-54ec2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27888666402:android:5f7254de2b3e916133077b",
+        "android_client_info": {
+          "package_name": "com.example.bookshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27888666402-404cnieosdfs87bef9rodn1jkcmeq6qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHeulE7Fu3bnt8GGFdoANXKUWWsokK8XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27888666402-404cnieosdfs87bef9rodn1jkcmeq6qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

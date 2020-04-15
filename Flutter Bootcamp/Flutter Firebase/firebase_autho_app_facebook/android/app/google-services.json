@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "476953361351",
+    "firebase_url": "https://email-authentication-dea89.firebaseio.com",
+    "project_id": "email-authentication-dea89",
+    "storage_bucket": "email-authentication-dea89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476953361351:android:5c1d768944487e484ff7e2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_autho_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476953361351-dpg2tpl6m07mcsbv8nt7vjcp7tfb7ouv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANdKBBa9vlDFP0wBCVOldK8G6MvN8Xdco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476953361351-dpg2tpl6m07mcsbv8nt7vjcp7tfb7ouv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
